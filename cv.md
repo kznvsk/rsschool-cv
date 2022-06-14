@@ -9,7 +9,7 @@ E-mail: olga_kazanovskaya@mail.ru
 
 GitHub: kznvsk
 
-Discord RSS: Olya_K
+Discord RSS: Olya_K#7941
 
 ## Courses
 * Simulators by HTML Academy (in progress)
